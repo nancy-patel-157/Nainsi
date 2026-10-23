@@ -22,7 +22,7 @@ Computer Science undergraduate passionate about building scalable full-stack web
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**Cloud & DevOps**  
+**Cloud & Tools**  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
@@ -32,14 +32,28 @@ Computer Science undergraduate passionate about building scalable full-stack web
 
 ---
 
-### 🚀 Featured Deployments & Projects
+### 📊 GitHub Activity & Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nancy-patel-157&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nancy-patel-157&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nancy-patel-157&theme=radical&hide_border=true" alt="GitHub Streak" width="97%" />
+</p>
+
+---
+
+### 🚀 Featured Projects
 
 | Project | Tech Stack | Highlights | Links |
 | :--- | :--- | :--- | :--- |
-| **Personal Portfolio** | HTML, CSS, JavaScript | Interactive developer portfolio showcasing engineering projects, milestones, and certifications. | [🌐 Live Demo](https://nancy-patel-157.github.io/) / [💻 Code](https://github.com/nancy-patel-157) |
-| **SahayakAI** | Python, RAG, LLMs, Vector DB | Governance assistant providing grounded contextual query responses using retrieval-augmented pipelines. | [💻 Code](https://github.com/nancy-patel-157) |
-| **Customer Churn Predictor** | Python, Flask, Scikit-learn, AWS | End-to-end ML classification pipeline predicting user churn patterns with interactive inference endpoints. | [🌐 Live Demo](https://nancy-patel-157.github.io/) / [💻 Code](https://github.com/nancy-patel-157/churn-project) |
-| **Smart Document Insights** | Python, NLP, LangChain | Intelligent multi-format document summarization and Q&A engine with semantic retrieval. | [💻 Code](https://github.com/nancy-patel-157/Smart-Document-Insights) |
+| **Smart Document Insights** | Python, NLP, LLMs, Vector DB | Document intelligence engine enabling semantic search, multi-document summarization, and contextual Q&A. | [💻 Code](https://github.com/nancy-patel-157/Smart-Document-Insights) |
+| **Car Price Predictor** | Python, Scikit-learn, Pandas, Regression | Machine learning regression model analyzing historical automobile datasets to forecast used car market prices. | [💻 Code](https://github.com/nancy-patel-157/car_price_prediction) |
+| **Serverless Churn Predictor** | Python, AWS Lambda, API Gateway, Scikit-learn | Scalable customer churn classification engine built with serverless cloud deployment and real-time inference. | [💻 Code](https://github.com/nancy-patel-157/customer-churn-prediction-serverless) |
+| **Wanderlust** | JavaScript, Node.js, Express, MongoDB | Full-stack vacation rental platform featuring user authentication, reviews, geocoding, and image cloud storage. | [💻 Code](https://github.com/nancy-patel-157/wanderlust) |
+| **ImageGallery App** | Flutter, Dart, C++ | Responsive mobile image curation and gallery app with smooth state management and native optimizations. | [💻 Code](https://github.com/nancy-patel-157/ImageGallery_Using_Flutter) |
 
 ---
 
